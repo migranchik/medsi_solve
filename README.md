@@ -7,4 +7,4 @@ Here you can see our solving the problem of online medicine
 - data.csv - data, which we have used for train the model
 - сама модель__ - researching data for recomendation system and train model
 - код бота__ - our Telegram bot - interface for patient
-- код анализа данных - total researching data
+- II_we_need_to_WIN.py - total researching data
