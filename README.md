@@ -9,3 +9,4 @@ Here you can see our solving the problem of online medicine
 - BOT.py - our Telegram bot - interface for patient
 - II_we_need_to_WIN.py - total researching data
 - finally_data.csv - final data of our researching
+- primaryDataforTraining.py - primary preprocessing of dataset for train
