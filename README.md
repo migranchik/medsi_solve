@@ -1,9 +1,9 @@
 # medsi_solve
-Here you can see our solving the problem of online medicine
+Here you can see our solution the problem of online medicine
 
-**Files in our solving:**
+**Files in our solution:**
 
-- ЖАЛАБЫ_2_этап.py - solving for second step
+- ЖАЛАБЫ_2_этап.py - solution for second step
 - data.csv - data, which we have used for train the model
 - doktormom.ipynb - researching data for recomendation system and train model
 - BOT.py - our Telegram bot - interface for patient
