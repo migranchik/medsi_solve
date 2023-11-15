@@ -3,8 +3,9 @@ Here you can see our solving the problem of online medicine
 
 **Files in our solving:**
 
-- жалбоы 2 этап__ - solving for second step
+- ЖАЛАБЫ_2_этап.py - solving for second step
 - data.csv - data, which we have used for train the model
-- сама модель__ - researching data for recomendation system and train model
-- код бота__ - our Telegram bot - interface for patient
+- doktormom.ipynb - researching data for recomendation system and train model
+- BOT.py - our Telegram bot - interface for patient
 - II_we_need_to_WIN.py - total researching data
+- finally_data.csv - final data of our researching
